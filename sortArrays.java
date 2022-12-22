@@ -15,5 +15,8 @@ public class SortArrays {
 		
 		Arrays.sort(names);
 		System.out.println(Arrays.toString(names));
+        
+        ----> person2 added new line
+        ----> person2 added new line
 	}
 }
