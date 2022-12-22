@@ -15,5 +15,7 @@ public class SortArrays {
 		
 		Arrays.sort(names);
 		System.out.println(Arrays.toString(names));
+		
+		----> thanya added new line
 	}
 }
